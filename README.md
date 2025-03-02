@@ -6,4 +6,3 @@ This is a Shakespeare Generator Recurrent Neural Network made on PyTorch.
 
 If you want to see how this works first you need to install all the requirements, but I was making this in my global enviornment so I do not have a requirements.txt file to provide. Sorry guys...
 
-If you just want to try it out just download the following file - "dist/run.pkg"
